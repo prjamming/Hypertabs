@@ -1,7 +1,7 @@
 {
   "name": "hypertabs",
   "version": "1.0.0",
-  "description": "Unofficial Hypertabs easy deployment version with TompHTTP bare server included.",
+  "description": "A very sharp sword sharpener.",
   "type": "module",
   "scripts": {
     "start": "node src/index.js"
